@@ -164,3 +164,16 @@ git status
 git commit -m "moved gitignore file to 0x01-git"
 git push
 exit
+pwd
+ls
+ls -al
+cd root
+ls
+git init
+git add .
+git status
+git commit
+git status
+git push
+git remote add alx_backup
+exit
